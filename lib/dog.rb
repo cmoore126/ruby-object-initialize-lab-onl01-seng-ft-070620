@@ -13,7 +13,7 @@ def name
 end
 
 class Dog
-   def initialize(breed, x)
+   def initialize(breed, name)
     @breed = breed
   end
 
